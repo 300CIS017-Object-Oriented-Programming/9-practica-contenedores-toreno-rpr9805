@@ -1,0 +1,3 @@
+C:/Users/Ricardo/OneDrive/Documentos/javeriana/semestre 4/poo/GIT/9-practica-contenedores-toreno-rpr9805/cmake-build-debug/CMakeFiles/9_practica_contenedores_toreno_rpr9805.dir
+C:/Users/Ricardo/OneDrive/Documentos/javeriana/semestre 4/poo/GIT/9-practica-contenedores-toreno-rpr9805/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ricardo/OneDrive/Documentos/javeriana/semestre 4/poo/GIT/9-practica-contenedores-toreno-rpr9805/cmake-build-debug/CMakeFiles/rebuild_cache.dir
