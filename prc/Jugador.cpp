@@ -15,6 +15,10 @@ int Jugador::getRanking() {
     return ranking;
 }
 
+void Jugador::setRanking(int ranking) {
+    Jugador::ranking = ranking;
+}
+
 void Jugador::mostrarJuegosInscritos() {
     if (videoJuegosInscritos.empty()) {
         cout<<"Aun no se ha inscrito a ningun juego"<<endl;

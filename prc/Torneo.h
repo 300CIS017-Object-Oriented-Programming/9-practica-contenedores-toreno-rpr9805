@@ -3,6 +3,7 @@
 
 #include "Jugador.h"
 #include <map>
+#include <set>
 
 
 class Torneo {
@@ -19,6 +20,9 @@ class Torneo {
         void promedioDificultadJugador();
         void inicializarVideojuego();
         void inicializarJugador();
+        //void mostrarRanking();
+        //bool compararRanking(Jugador* a, Jugador* b);
+        void editarRankingJugador(string nickname, int newRanking);
 };
 
 
