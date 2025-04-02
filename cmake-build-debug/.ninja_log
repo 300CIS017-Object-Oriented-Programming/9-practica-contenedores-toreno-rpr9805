@@ -1,0 +1,15 @@
+# ninja log v6
+40	769	7653084983380171	CMakeFiles/9_practica_contenedores_toreno_rpr9805.dir/prc/Videojuego.cpp.obj	a70ddc14518ba68e
+23	818	7653084983184862	CMakeFiles/9_practica_contenedores_toreno_rpr9805.dir/prc/main.cpp.obj	abdb862126eb18ec
+14	858	7653084983108858	CMakeFiles/9_practica_contenedores_toreno_rpr9805.dir/prc/Jugador.cpp.obj	9b761d2ecfc9ca7e
+10	721	7653089077907570	CMakeFiles/9_practica_contenedores_toreno_rpr9805.dir/prc/main.cpp.obj	abdb862126eb18ec
+18	1033	7653089077989836	CMakeFiles/9_practica_contenedores_toreno_rpr9805.dir/prc/Torneo.cpp.obj	8d22e38d67d087cf
+1033	1432	7653089088145979	9_practica_contenedores_toreno_rpr9805.exe	a3b4fa208334f8bb
+7	861	7653090252017863	CMakeFiles/9_practica_contenedores_toreno_rpr9805.dir/prc/Torneo.cpp.obj	8d22e38d67d087cf
+867	1042	7653090260624666	9_practica_contenedores_toreno_rpr9805.exe	a3b4fa208334f8bb
+9	874	7653091963164712	CMakeFiles/9_practica_contenedores_toreno_rpr9805.dir/prc/Torneo.cpp.obj	8d22e38d67d087cf
+875	1057	7653091971812546	9_practica_contenedores_toreno_rpr9805.exe	a3b4fa208334f8bb
+14	788	7653097346408484	CMakeFiles/9_practica_contenedores_toreno_rpr9805.dir/prc/Torneo.cpp.obj	8d22e38d67d087cf
+789	964	7653097354164824	9_practica_contenedores_toreno_rpr9805.exe	a3b4fa208334f8bb
+10	882	7653099062999519	CMakeFiles/9_practica_contenedores_toreno_rpr9805.dir/prc/Torneo.cpp.obj	8d22e38d67d087cf
+883	1056	7653099071727860	9_practica_contenedores_toreno_rpr9805.exe	a3b4fa208334f8bb
